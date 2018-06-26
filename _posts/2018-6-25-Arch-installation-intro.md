@@ -14,3 +14,19 @@ However, in my final weeks at Uni after turning in my last assignments I decided
 ### Installation media and inital boot
 
 I had to do a lot of research beforehand about machine maintenance, most importantly **systemd**. **systemd** is basically a system initalizer and service manager. It will run as PID 1 and start services listed by the kernel and by the user. It also provides users with correct privleges to manage these and new services once the system is booted. There is a lot to systemd, and its a tool that is taking over the Linux world. Its the replacement for **init** and theres a lot of controversy over it (just look at reddit and you'll already get tired of it). Pretty much if you wanna be and sysadmin at any point in your career...learn **systemd**.
+
+First steps of the actual install is to **dd** the iso to a USB stick. For all of you who don't know...look it up.
+
+```bash
+sudo dd if=/path/to/downloaded/iso of=/dev/sd<?> bs=4M
+```
+
+An awesome tool to use is **pv**, which for anyone who uses **dd** regularly, you don't get a lot of info of how its going. 
+
+```bash
+man pv
+```
+
+will show you how to use **pv** to get some status so you don't tear your hair out.
+
+And funny enough, as I was powering down my Ubuntu build to install Arch, it crashed HA.
