@@ -20,9 +20,9 @@ footer-links:
   email: daniel.n.thurau@gmail.com
   facebook:
   flickr:
-  github: danielthurau
+  github: https://github.com/DanielThurau/
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/danielthurau/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
