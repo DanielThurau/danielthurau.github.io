@@ -31,8 +31,8 @@ github_username:  DanielThurau
 favicon: "logo.svg" # name+extension of favicon (which must be put on the root folder)
 
 # Build settings
-# theme: no-style-please # Local development theme
-theme: riggraz/no-style-please # Github pages theme
+theme: no-style-please # Local development theme
+remote_theme: riggraz/no-style-please # Github pages theme
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
