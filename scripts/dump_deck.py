@@ -13,4 +13,4 @@ def convert(pdf_path, output_folder, naming_scheme=""):
         print(f"Saved {filename}")
 
 
-convert("desk.pdf", "example", "desk")
+convert("economics.pdf", "../images/3d-printer-economics", "economics")

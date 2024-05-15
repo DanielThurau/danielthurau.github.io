@@ -5,13 +5,7 @@ entries:
   - title: about me
     entries:
       - title: I've previously worked on the <a href='https://internetcomputer.org/'>Internet Computer</a>, at Amazon Alexa, Amazon Fresh, NBCUniversal, and in various positions at the University of California Santa Cruz.
-      - title: contact me
-        entries:
-            - title: "<address>daniel.n.thurau@gmail.com</address>"
-            - title: "<a href='https://twitter.com/DanielNThurau'>Twitter</a>"
-            - title: "<a href='https://www.linkedin.com/in/danielthurau/'>Linkedin</a>"
-            - title: "<a href='https://github.com/DanielThurau'>Github</a>"
-            - title: "<a href='pgp.txt'>PGP Key</a>"
+
       - title: "I have a Bachelor's Degree in Computer Science from <a href='https://engineering.ucsc.edu/'>University of California: Santa Cruz</a>"
       - title: "<a href='pdfs/resume.pdf'>My resume</a>"
 
@@ -19,7 +13,14 @@ entries:
     entries:
         - title: "<a href='https://github.com/dfinity/ic/tree/master/rs/nns'>NetworkNervousSystem</a> - an advanced DAO governing the Internet Computer's protocols"
         - title: "<a href='https://github.com/dfinity/ic/tree/master/rs/sns'>ServiceNervousSystem</a> - an advanced DAO turnkey platform for governing open internet service built on the Internet Computer protocol"
-        - title: "<a href='https://thurauio.gatsbyjs.io/colorsplash/''>ColorSplash</a> - return the top N images closest to a provided HEX code from Unsplash's dataset"
-  - title: my other fun projects
+        - title: "<a href='https://thurauio.gatsbyjs.io/colorsplash/'>ColorSplash</a> - return the top N images closest to a provided HEX code from Unsplash's dataset"
+        - title: "<a href='https://github.com/DanielThurau/amleth/'>Amleth</a> - a data pipeline for ingesting MQTT topic events and transforming them into records in a sqlite3 database"
+  - title: some of my maker projects
     url: projects
+  - title: contact me
     entries:
+        - title: "<address>daniel.n.thurau@gmail.com</address>"
+        - title: "<a href='https://twitter.com/DanielNThurau'>Twitter</a>"
+        - title: "<a href='https://www.linkedin.com/in/danielthurau/'>LinkedIn</a>"
+        - title: "<a href='https://github.com/DanielThurau'>GitHub</a>"
+        - title: "<a href='pgp.txt'>PGP Key</a>"
