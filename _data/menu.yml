@@ -15,6 +15,7 @@ entries:
         - title: "<a href='https://github.com/dfinity/ic/tree/master/rs/sns'>ServiceNervousSystem</a> - an advanced DAO turnkey platform for governing open internet service built on the Internet Computer protocol"
         - title: "<a href='https://thurauio.gatsbyjs.io/colorsplash/'>ColorSplash</a> - return the top N images closest to a provided HEX code from Unsplash's dataset"
         - title: "<a href='https://github.com/DanielThurau/amleth/'>Amleth</a> - a data pipeline for ingesting MQTT topic events and transforming them into records in a sqlite3 database"
+        - title: "<a href='https://crates.io/crates/atlas-rb-tree'>atlas-rb-tree</a> - textbook implementation of a self-balancing red-black tree written in Rust"
   - title: some of my maker projects
     url: projects
   - title: contact me
