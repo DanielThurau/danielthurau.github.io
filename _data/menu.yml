@@ -18,6 +18,10 @@ entries:
         - title: "<a href='https://crates.io/crates/atlas-rb-tree'>atlas-rb-tree</a> - textbook implementation of a self-balancing red-black tree written in Rust"
   - title: some of my maker projects
     url: projects
+  - title: some of my public demos
+    entries:
+       - title: "<a href='https://youtu.be/w7wuXKOgY-8?t=2244'>1-Proposal SNS Initialization</a>"
+       - title: "<a href='https://youtu.be/RofWXtHLcwo?si=vfYi1A0XhXGLj2X5&t=1103'>SNS Overview Demo</a>"
   - title: contact me
     entries:
         - title: "<address>daniel.n.thurau@gmail.com</address>"
