@@ -2,7 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about me
+  - title: whoami
+    url: about
     entries:
       - title: I've previously worked on the <a href='https://internetcomputer.org/'>Internet Computer</a>, at Amazon Alexa, Amazon Fresh, NBCUniversal, and in various positions at the University of California Santa Cruz.
 
