@@ -17,6 +17,8 @@ entries:
         - title: "<a href='https://thurauio.gatsbyjs.io/colorsplash/'>ColorSplash</a> - return the top N images closest to a provided HEX code from Unsplash's dataset"
         - title: "<a href='https://github.com/DanielThurau/amleth/'>Amleth</a> - a data pipeline for ingesting MQTT topic events and transforming them into records in a sqlite3 database"
         - title: "<a href='https://crates.io/crates/atlas-rb-tree'>atlas-rb-tree</a> - textbook implementation of a self-balancing red-black tree written in Rust"
+        - title: "<a href='https://github.com/DanielThurau/osrs_high_alc_arbitrage'>osrs_high_alc_arbitrage</a> - a high-alc arbitrage strategy for Old School Runescape"
+        - title: "<a href='https://github.com/DanielThurau/2-layer-nn'>2-layer-nn</a> - a 2-layer neural network written in Python"
   - title: some of my maker projects
     url: projects
   - title: some of my public demos

@@ -2,3 +2,28 @@
 ---
 
 @import "no-style-please";
+
+.header-bar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 1rem 2rem;
+  z-index: 1000;
+}
+
+.header-link {
+  font-family: monospace;
+  font-size: 1rem;
+  color: #222;
+  text-decoration: none;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 0.4em 1em;
+  transition: background 0.2s, color 0.2s;
+}
+
+.header-link:hover {
+  background: #222;
+  color: #fff;
+}
