@@ -21,6 +21,8 @@ entries:
         - title: "<a href='https://github.com/DanielThurau/2-layer-nn'>2-layer-nn</a> - a 2-layer neural network written in Python"
   - title: some of my maker projects
     url: projects
+  - title: posts
+    url: posts
   - title: some of my public demos
     entries:
        - title: "<a href='https://youtu.be/w7wuXKOgY-8?t=2244'>1-Proposal SNS Initialization</a>"
